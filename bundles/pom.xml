@@ -110,6 +110,7 @@
     <module>org.openhab.binding.harmonyhub</module>
     <module>org.openhab.binding.hdanywhere</module>
     <module>org.openhab.binding.hdpowerview</module>
+    <module>org.openhab.binding.hebcalendar</module>
     <module>org.openhab.binding.helios</module>
     <module>org.openhab.binding.heliosventilation</module>
     <module>org.openhab.binding.heos</module>
